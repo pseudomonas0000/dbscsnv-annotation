@@ -1,0 +1,1 @@
+#chr	pos(1-based)	ref	alt	hg38_chr	hg38_pos	RefSeq?	Ensembl?	RefSeq_region	RefSeq_gene	RefSeq_functional_consequence	RefSeq_id_c.change_p.change	Ensembl_region	Ensembl_gene	Ensembl_functional_consequence	Ensembl_id_c.change_p.change	ada_score	rf_score
