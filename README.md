@@ -11,7 +11,7 @@ This can be to convert the dbscSNV1.1 datasets for annotation your vcf file by s
 Frist, you need to download dbscSNV datasets [(site here)](http://www.liulab.science/dbscsnv.html) and uncompress `.zip` file.<br>
 __NOTE: Save the umcompressed files in the repository directory.__<br>
 
-Then for build like below (commandline aurgument is needed, set full path of header.txt). A `dbscSNV1.1.all.txt` file is created　and contained all the chromosome data.
+Then for build like below (commandline aurgument is needed, set full path of header.txt). A `dbscSNV1.1.all.txt` file is created and contained all the chromosome data.
 ```console
 $ ./dbscsnv-convert.pl ./header.txt
 ```
